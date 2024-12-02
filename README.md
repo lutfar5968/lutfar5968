@@ -22,7 +22,5 @@ Skills:  REACT / JS / HTML / CSS/TAILWIND.CSS/BOOTSTRAP/JQUERY
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/lutfar5968/contributions?format=svg&private=false)  
 
-![GitHub metrics](https://metrics.lecoq.io/lutfar5968)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=lutfar5968)  
 
